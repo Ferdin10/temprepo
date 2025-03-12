@@ -1,0 +1,14 @@
+git init
+
+git status
+
+git add -A
+
+git commit -m "commit messge"
+
+git remote add remote_name remote__path
+
+git remote -v
+
+git branches
+
