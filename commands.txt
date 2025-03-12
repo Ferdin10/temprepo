@@ -15,3 +15,6 @@ git branches
 this line is added from feature branches
 
 this  another line  added from feature branches
+
+this line is added from remote repo
+this is another line added from remote repo
